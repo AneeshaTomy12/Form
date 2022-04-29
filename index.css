@@ -80,6 +80,20 @@ body{
     align-content: center;
 }
 .ft .adrs {
-    width: 83%;
+    padding-right: 18%;
 }
+.icon img{
+	width: 70%;
+	height: 45%;
+}
+.footer {
+    padding-left: 5px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: white;
+    width: 108%;
+    height: 46%;
+    background-color: gray;
+}
+
 }
